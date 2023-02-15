@@ -1,16 +1,16 @@
 {
-  "id": "dev.replugged.PluginTemplate",
-  "name": "Plugin Template",
-  "description": "A plugin template",
+  "id": "com.apsychos.my-first-plugin",
+  "name": "My first plugin",
+  "description": "Just messing around to figure out how this works",
   "author": {
-    "name": "replugged",
-    "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "name": "Apsychos",
+    "discordID": "775760594409095168",
+    "github": "TYTheBeast"
   },
   "version": "1.0.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/plugin-template"
+    "id": "TYTheBeast/first-replugged-plugin"
   },
   "license": "MIT",
   "type": "replugged-plugin",
